@@ -1,0 +1,34 @@
+.heading{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+}
+.notice{
+    font-size: 15px;
+    color: black;
+}
+.speedDiv{
+    float: left;
+    margin: 15px;
+}
+.volumeDiv{
+    float: right;
+    margin: 15px;
+}
+.diskspeedimg{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+}
+.diskvolumeimg{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+}
+.playBtn{
+    width: 130px;
+    font-size: 24px;
+}
+canvas{
+    border: 5px ridge brown;
+}
